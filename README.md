@@ -72,6 +72,22 @@ Each superhero has a dedicated profile section containing images and background 
 
 ---
 ## 📂 Project Structure
+avengers-superhero-app
+
+--HTML/
+   index.html
+--CSS/
+    style.css
+--assets
+     images
+        captain-america.png
+        iron-man.png
+        thor.png
+        hulk.png
+        black-widow.png
+        hawkeye.png
+--README.md     
+         
 
 ---
 ## Project Status
