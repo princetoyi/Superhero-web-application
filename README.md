@@ -79,11 +79,11 @@ Each superhero has a dedicated profile section containing images and background 
  In Progress – Currently refining design consistency, improving responsiveness, and enhancing visual details.
 
 The foundation and core functionality are complete. 
-Ongoing improvements focus on polishing UI elements and preparing the project for future JavaScript integration.      
+      
 ---
 ##  Project Goals
 
 - Practice structured web development
 - Improve CSS layout skills
 - Build portfolio-ready projects
-- Prepare for junior developer opportunities
+- Prepare for junior developer    opportunities
